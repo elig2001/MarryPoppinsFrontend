@@ -1,0 +1,6 @@
+.col {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-content: space-between;
+}
